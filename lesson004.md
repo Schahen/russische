@@ -1,5 +1,5 @@
 | Nominative        | Accusative           | Genitive  |
-| ------------- | ------------- | ----- |
+| ------------- | ----- | ----- |
 | я | меня | мне |
 | ты | тебя | тебе |
 | он | его | ему |
@@ -22,8 +22,8 @@
 
 Numerals
 
-|value|ordinal|expression|
-| ------------- | ------------- | ------------- |
+|value|ordinal|expression| note |
+| ------------- | ------------- | ------------- | ------------- | 
 | 0 | ноль | **полный ноль** - absolute nothing |
 | 1 | один/одна | **один в поле не воин** - one is not a warrior (you can not do anything big on your own) |
 | 2 | два/две | **два сапога пара** ~ quite a pair, lit. "two boots is a pair" |
@@ -46,7 +46,7 @@ Numerals
 | 19 | девятнадцать | |
 | 20 | двадцать | |
 | 30 | тридцать | |
-| 40 | сорок | |
+| 40 | сорок | | The old word was "четыре десѧте" (четыре десяте), nobody nows for sure what is "сорок" |
 | 50 | пятьдесят | |
 | 60 | шестьдесят | | 
 | 70 | cемьдесят | | 
@@ -61,4 +61,8 @@ Numerals
 | 700 | семьсот | |
 | 800 | восемьсот | |
 | 900 | девятьсот | | 
-| 1000 | тысяча | | 
+| 1000 | тысяча | | |
+| 2000 | две тысячи | | see, it's "тысячи", not "тысяч" - for 2, 3, and 4 thousansd it's always the case | 
+| 3000 | три тысячи | | it's sort of similar to the "год" / "лет" dichotomy, so 23000, for instance, would be 23 тысячи |
+| 4000 | четыре тысячи | | |
+| 5000 | пять тысяч | | |
