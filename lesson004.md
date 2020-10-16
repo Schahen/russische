@@ -24,13 +24,14 @@ Numerals
 
 |value|ordinal|expression|
 | ------------- | ------------- | ------------- |
-| 1 | один/одна | один в поле не воин |
-| 2 | два/две | два сапога пара |
+| 0 | ноль | **полный ноль** - absolute nothing |
+| 1 | один/одна | **один в поле не воин** - one is not a warrior (you can not do anything big on your own) |
+| 2 | два/две | **два сапога пара** ~ quite a pair, lit. "two boots is a pair" |
 | 3 | три | |
 | 4 | четыре | |
 | 5 | пять | |
 | 6 | шесть | | 
-| 7 | семь | семь бед - один ответ |
+| 7 | семь | **семь бед - один ответ** ~ iron. about some bruteforce solution, lit. "seven trouble, one answer" |
 | 8 | восемь | |
 | 9 | девять | |
 | 10 | десять | |
