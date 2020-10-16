@@ -29,7 +29,7 @@ Numerals
 | 2 | два/две | **два сапога пара** ~ quite a pair, lit. "two boots is a pair" |
 | 3 | три | |
 | 4 | четыре | |
-| 5 | пять | |
+| 5 | пять | **раз, два, три, четыре, пять - я иду искать!** - one, two, three, four, five - I'm up to searching | **раз** - is very close in it's meaning to the German "Mal", so "один раз" = "einmal" |
 | 6 | шесть | | 
 | 7 | семь | **семь бед - один ответ** ~ iron. about some bruteforce solution, lit. "seven trouble, one answer" |
 | 8 | восемь | |
