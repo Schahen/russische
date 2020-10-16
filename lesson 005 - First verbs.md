@@ -18,8 +18,8 @@
 | ты говоришь | вы говорите |
 | он/она говорит | они говорят |
 
-**Вы говорите по-английски?** - Do you speak English.
-**К сожалению / нет , я не говорю по-английски** - Helas / no, I don't speak English.
+- **Вы говорите по-английски?** - Do you speak English.
+- **К сожалению / нет , я не говорю по-английски** - Helas / no, I don't speak English.
 
 Some forms to memorize:
 
