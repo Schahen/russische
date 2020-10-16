@@ -17,8 +17,8 @@
 
 *_The word "dative" is actually relative to the Russian verb "дать" (to give)*
 
-* Дай мне какое-то время - Give me some time. 
-* Мне пятнадцать лет. 
+* **Дай мне какое-то время** - Give me some time. 
+* **Сколько тебе лет? Мне пятнадцать лет, а тебе?** - How old are you? I'm fifteen. And you? 
 
 Numerals
 
@@ -29,7 +29,7 @@ Numerals
 | 2 | два/две | **два сапога пара** ~ quite a pair, lit. "two boots is a pair" | два **года** |
 | 3 | три | | три **года** |
 | 4 | четыре | четыре **года** |
-| 5 | пять | **раз, два, три, четыре, пять - я иду искать!** - one, two, three, four, five - I'm up to searching | **раз** - is very close in it's meaning to the German "Mal", so "один раз" = "einmal" | 5 - 20 лет, than it's base on the last number |
+| 5 | пять | **раз, два, три, четыре, пять - я иду искать!** - one, two, three, four, five - I'm up to searching | **раз** - is very close in it's meaning to the German "Mal", so "один раз" = "einmal" (два раз*а*, три раз*а*, четыре раз*а*) | 5 - 20 лет, than it's base on the last number |
 | 6 | шесть | | 
 | 7 | семь | **семь бед - один ответ** ~ iron. about some bruteforce solution, lit. "seven trouble, one answer" |
 | 8 | восемь | |
