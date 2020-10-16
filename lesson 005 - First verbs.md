@@ -14,6 +14,10 @@ also: **плыть** (to swim)
 - **Где вы живёте?** -  Where are you living?
 - **Я живу в Мюнхене?** - I live in Munich.
 
+Negation is pretti simple in russian, just add "не" before the verb!
+
+- **Он тут не живёт** - he's not living here. 
+
 ### **говорить** - to speak, to tell
 
 | Singular | Plural |
@@ -39,7 +43,7 @@ also: **играть** - to play; **уметь** - to be able to; **читать
 - **Вы говорите по-английски?** - Do you speak English?
 - **К сожалению / нет , я не говорю по-английски** - Helas / no, I don't speak English.
 - **Вы знаете английский?** - do they know English?
-- **Да я знаю английский** - yes I do.
+- **Да, я знаю английский** - yes I do.
 - **Я знаю, где ты живёшь!** - I know where you live.
 - **Я умею читать по-португальски, но я не знаю португальский** - I can read in Portuguese but I don't know Portuguese.
 
