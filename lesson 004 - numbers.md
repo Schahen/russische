@@ -65,4 +65,4 @@ Numerals
 | 2000 | две тысячи | | see, it's "тысячи", not "тысяч" - for 2, 3, and 4 thousansd it's always the case | 
 | 3000 | три тысячи | | it's sort of similar to the "год" / "лет" dichotomy, so 23000, for instance, would be 23 тысячи |
 | 4000 | четыре тысячи | | |
-| 5000 | пять тысяч | | |
+| 5000 | пять тысяч | | in casual usage it's quite commont to reduce and say "тыщ" |
