@@ -9,7 +9,8 @@
 
 Очень весело живут - и танцуют, и поют!
 
-**Где вы живёте?** -  Where are you living?
+- **Где вы живёте?** -  Where are you living?
+- **Я живу в Мюнхене?** - I live in Munich.
 
 ### **говорить** - to speak, to tell
 
