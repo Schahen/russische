@@ -35,7 +35,7 @@ Numerals
 | 8 | восемь | |
 | 9 | девять | |
 | 10 | десять | |
-| 11 | одиннадцать | |
+| 11 | одиннадцать | you can think of "надцать" as of extremely reduced form of "на десять" - "over ten" |
 | 12 | двенадцать | | also, "дюжина" (borrowed from "dozen") - for instance, `дюжина яиц` |
 | 13 | тринадцать | | **чёртова дюжина** - devil's dozen |
 | 14 | четырнадацть | | 
