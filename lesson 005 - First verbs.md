@@ -27,8 +27,10 @@
 | ты знаешь | вы знаете |
 | он/она знает | они знают |
 
-- **Вы говорите по-английски?** - Do you speak English.
+- **Вы говорите по-английски?** - Do you speak English?
 - **К сожалению / нет , я не говорю по-английски** - Helas / no, I don't speak English.
+- **Вы знаете английский?** - do they know English?
+- **Да я знаю английский** - yes I do.
 
 Some forms to memorize:
 
