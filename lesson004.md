@@ -25,11 +25,11 @@ Numerals
 |value|ordinal|expression| note |
 | ------------- | ------------- | ------------- | ------------- | 
 | 0 | ноль | **полный ноль** - absolute nothing |
-| 1 | один/одна | **один в поле не воин** - one is not a warrior (you can not do anything big on your own) |
-| 2 | два/две | **два сапога пара** ~ quite a pair, lit. "two boots is a pair" |
-| 3 | три | |
-| 4 | четыре | |
-| 5 | пять | **раз, два, три, четыре, пять - я иду искать!** - one, two, three, four, five - I'm up to searching | **раз** - is very close in it's meaning to the German "Mal", so "один раз" = "einmal" |
+| 1 | один/одна | **один в поле не воин** - one is not a warrior (you can not do anything big on your own) | один **год** |
+| 2 | два/две | **два сапога пара** ~ quite a pair, lit. "two boots is a pair" | два **года** |
+| 3 | три | | три **года** |
+| 4 | четыре | четыре **года** |
+| 5 | пять | **раз, два, три, четыре, пять - я иду искать!** - one, two, three, four, five - I'm up to searching | **раз** - is very close in it's meaning to the German "Mal", so "один раз" = "einmal" | 5 - 20 лет, than it's base on the last number |
 | 6 | шесть | | 
 | 7 | семь | **семь бед - один ответ** ~ iron. about some bruteforce solution, lit. "seven trouble, one answer" |
 | 8 | восемь | |
