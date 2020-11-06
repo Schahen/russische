@@ -31,6 +31,7 @@
 * особенно / в особенности - especially
 * а ещё - and also
 * в свободное время - in der Freizeit
+* часто <=> не очень часто
 
 ### Wochentage
 
